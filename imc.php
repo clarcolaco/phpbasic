@@ -1,7 +1,7 @@
 <?php
 
-$altura = 150;
-$peso = 50;
+$altura = 1.50;
+$peso = 80;
 
  $imc = $peso/($altura *$altura);
 
